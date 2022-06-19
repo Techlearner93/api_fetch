@@ -4,4 +4,4 @@
 
 ## To view this app on your browser
 
-## https://Techlearner93.github.io/names_in_api_react
+## https://Techlearner93.github.io/api_fetch
